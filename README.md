@@ -1,4 +1,12 @@
-## Hi there 👋
+![Visitor Count](https://profile-counter.glitch.me/rbn2008k/count.svg)
+
+IRL, my name is Ruban Kumar, but I'm comfortable with calling me Ruben. My profile name and pic is based on Romeo from the Anime series Romeo X Juliet (2007).
+
+I'm an average computer science student, exploring the endless possibilities of what I can do with today's technological advancements.
+
+💻 Python | 🖱️ JavaScript | ☁️ MongoDB | 🔧 Docker
+
+![rbn2008k's Stats](https://github-readme-stats.vercel.app/api?username=rbn2008k&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 
 <!--
 **rbn2008k/rbn2008k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
